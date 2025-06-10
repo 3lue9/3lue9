@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/3lue9/3lue9/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
